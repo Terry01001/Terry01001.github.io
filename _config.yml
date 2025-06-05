@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yu-Feng's Homepage"
+title                    : "Yu-Feng Chen"
 title_separator          : "-"
 name                     : &name "Yu-Feng Chen"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yu-Feng Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant"
+  bio              : "Research Assistant @ Academia Sinica"
   location         : "Taipei, Taiwan"
   employer         : "Academia Sinica"
   uri              : # URL
@@ -101,7 +101,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
