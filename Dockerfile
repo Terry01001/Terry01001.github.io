@@ -23,6 +23,7 @@ USER vscode
 
 # Copy Gemfile into the container (necessary for `bundle install`)
 COPY Gemfile ./
+#COPY . .
 
 
 
