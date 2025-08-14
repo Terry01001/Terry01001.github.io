@@ -34,7 +34,7 @@ My primary research interests lie in **deep learning**, **computer vision**, and
           <h5 style="font-size: 20px; font-weight: 600; margin-bottom: 5px;">Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking</h5>
           <p style="font-size: 15px; margin-bottom: 10px;"><strong>Yu-Feng Chen</strong>, Tzuhsuan Huang, Pin-Yen Chiu, Jun-Cheng Chen</p>
           <p style="font-size: 15px; font-weight: bold; margin-bottom: 8px;">AVSS 2025</p>
-          <!-- <p style="font-size: 15px;"><a href="#" target="_blank" style="text-decoration: none;">[Paper]</a></p> -->
+          <p style="font-size: 15px;"><a href="https://arxiv.org/abs/2506.04879" target="_blank" style="text-decoration: none;">[Paper]</a></p>
         </div>
       </div>
     </li>
@@ -47,7 +47,7 @@ My primary research interests lie in **deep learning**, **computer vision**, and
         <div class="col-md-8">
           <h5 style="font-size: 20px; font-weight: 600; margin-bottom: 5px;">A Diverse AdaBoost Based Misbehavior Detection System in VANET</h5>
           <p style="font-size: 15px; margin-bottom: 10px;"><strong>Yu-Feng Chen</strong>, Jia-Sheng Yang, Chun-Wei Tsai</p>
-          <p style="font-size: 15px; font-weight: bold; margin-bottom: 8px;">ICEA 2023 (Short Paper)</p>
+          <p style="font-size: 15px; font-weight: bold; margin-bottom: 8px;">ICEA 2023</p>
           <p style="font-size: 15px;"><a href="https://dl.acm.org/doi/pdf/10.1145/3659154.3659163" target="_blank" style="text-decoration: none;">[Paper]</a></p>
         </div>
       </div>
