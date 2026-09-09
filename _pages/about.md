@@ -28,13 +28,31 @@ My primary research interests lie in **deep learning**, **computer vision**, and
     <li class="list-group-item border-0 mb-4 p-0">
       <div class="row">
         <div class="col-md-4 d-flex justify-content-center align-items-center">
+          <img class="img-fluid rounded" src="images/cohesion.png" style="width: 90%; height: auto; transition: transform 0.3s; object-fit: contain;">
+        </div>
+        <div class="col-md-8">
+          <h5 style="font-size: 20px; font-weight: 600; margin-bottom: 5px;">Cohesion: Consensus-based Hallucination Subspace Estimation for Multimodal Large Language Models</h5>
+          <p style="font-size: 15px; margin-bottom: 10px;">Wei-Han Chen, <strong>Yu-Feng Chen</strong>, Jun-Cheng Chen</p>
+          <p style="font-size: 15px; font-weight: bold; margin-bottom: 8px;">ICIP 2026</p>
+          <p style="font-size: 15px;"><a href="https://ieeexplore.ieee.org/abstract/document/11630364" target="_blank" style="text-decoration: none;">[Paper]</a></p>
+        </div>
+      </div>
+    </li>
+
+    <li class="list-group-item border-0 mb-4 p-0">
+      <div class="row">
+        <div class="col-md-4 d-flex justify-content-center align-items-center">
           <img class="img-fluid rounded" src="images/BackdoorImageEdit.png" style="max-width: 100%; height: auto; transition: transform 0.3s; object-fit: contain;">
         </div>
         <div class="col-md-8">
           <h5 style="font-size: 20px; font-weight: 600; margin-bottom: 5px;">Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking</h5>
           <p style="font-size: 15px; margin-bottom: 10px;"><strong>Yu-Feng Chen</strong>, Tzuhsuan Huang, Pin-Yen Chiu, Jun-Cheng Chen</p>
           <p style="font-size: 15px; font-weight: bold; margin-bottom: 8px;">AVSS 2025</p>
-          <p style="font-size: 15px;"><a href="https://arxiv.org/abs/2506.04879" target="_blank" style="text-decoration: none;">[Paper]</a></p>
+          <p style="font-size: 15px;"><a href="https://ieeexplore.ieee.org/document/11149824" target="_blank" style="text-decoration: none;">[Paper]</a>
+          <a href="https://github.com/aiiu-lab/BackdoorImageEditing"
+          target="_blank"
+          style="text-decoration: none; margin-left: 1px;">[Code]</a>
+          </p>
         </div>
       </div>
     </li>
@@ -48,7 +66,7 @@ My primary research interests lie in **deep learning**, **computer vision**, and
           <h5 style="font-size: 20px; font-weight: 600; margin-bottom: 5px;">A Diverse AdaBoost Based Misbehavior Detection System in VANET</h5>
           <p style="font-size: 15px; margin-bottom: 10px;"><strong>Yu-Feng Chen</strong>, Jia-Sheng Yang, Chun-Wei Tsai</p>
           <p style="font-size: 15px; font-weight: bold; margin-bottom: 8px;">ICEA 2023</p>
-          <p style="font-size: 15px;"><a href="https://dl.acm.org/doi/pdf/10.1145/3659154.3659163" target="_blank" style="text-decoration: none;">[Paper]</a></p>
+          <p style="font-size: 15px;"><a href="https://dl.acm.org/doi/10.1145/3659154.3659163" target="_blank" style="text-decoration: none;">[Paper]</a></p>
         </div>
       </div>
     </li>
