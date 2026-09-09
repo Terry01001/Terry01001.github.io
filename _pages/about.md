@@ -28,7 +28,7 @@ My primary research interests lie in **deep learning**, **computer vision**, and
     <li class="list-group-item border-0 mb-4 p-0">
       <div class="row">
         <div class="col-md-4 d-flex justify-content-center align-items-center">
-          <img class="img-fluid rounded" src="images/cohesion.png" style="width: 90%; height: auto; transition: transform 0.3s; object-fit: contain;">
+          <img class="img-fluid rounded" src="images/cohesion.png" style="max-width: 100%; height: auto; transition: transform 0.3s; object-fit: contain;">
         </div>
         <div class="col-md-8">
           <h5 style="font-size: 20px; font-weight: 600; margin-bottom: 5px;">Cohesion: Consensus-based Hallucination Subspace Estimation for Multimodal Large Language Models</h5>
@@ -75,10 +75,26 @@ My primary research interests lie in **deep learning**, **computer vision**, and
 </div>
 
 <style>
-  
-  a {
-    text-decoration: none; 
+  body {
+    color: var(--global-text-color);
+    background-color: var(--global-bg-color);
   }
+
+  .list-group,
+  .list-group-item {
+    color: var(--global-text-color);
+    background-color: transparent;
+  }
+
+  .page__content a {
+    color: var(--global-link-color);
+    text-decoration: none;
+  }
+
+  .page__content a:hover {
+    color: var(--global-link-color-hover);
+  }
+
   .list-group-item:hover img {
     transform: scale(1.05);
   }
