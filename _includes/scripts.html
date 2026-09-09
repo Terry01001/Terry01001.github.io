@@ -1,3 +1,9 @@
+<script>
+  // Use light mode for first-time visitors. Manual theme choices remain saved.
+  if (!localStorage.getItem("theme")) {
+    localStorage.setItem("theme", "light");
+  }
+</script>
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
